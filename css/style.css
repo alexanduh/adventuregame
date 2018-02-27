@@ -1,7 +1,21 @@
 body {
-    background-color: black;
+    background-color: beige
 }
-
 h1 {
-    color: white;
+   font-style: oblique
+}
+h1 {
+    color: black
+}
+h2 {
+    font-style: oblique
+}
+h2 {
+    color: rebeccapurple
+}
+h2 {
+    font-family: "Comic Sans MS", cursive, sans-serif
+}
+h2 {
+    font-size: 40px;
 }
